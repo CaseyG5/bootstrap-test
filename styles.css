@@ -1,0 +1,25 @@
+div {
+    padding: 5px;
+}
+
+form {
+    width: 520px;
+    margin-left: 100px;
+}
+
+input {  max-width: 350px;  }
+
+.outline {  border: 1px solid black;  }
+
+.space-right {
+    margin-right: 10px;
+}
+
+.flex-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text-xl {  font-size: 36px;  }
+
+.text-red {  color: orangered;  }
